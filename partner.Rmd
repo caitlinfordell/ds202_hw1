@@ -1,0 +1,16 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Caitlin Fordell
+
+GitHub username: caitlinfordell
+
+In the most recent commit Caitlin uploaded her hw1 files. The commit id was fb26bba9a42faa17f98d6b3e2a5588a7ed0a34e5. 
+
+
