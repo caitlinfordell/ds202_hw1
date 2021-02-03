@@ -13,4 +13,4 @@ GitHub username: caitlinfordell
 
 In the most recent commit Caitlin uploaded her hw1 files. The commit id was fb26bba9a42faa17f98d6b3e2a5588a7ed0a34e5. 
 
-
+one thing i noticed is the github screen doesn't show the clone button when you can only see half of the window on your screen. It has to be full screen to show that. 
